@@ -1,0 +1,12 @@
+www.google.com
+cf.iadsdk.apple.com
+config.resilio.com
+insights.bain.com
+em.adyen.com
+m.exactag.com
+clickserve.dartsearch.net
+newsletter.businessinsider.com
+cdn.amplitude.com
+xp.apple.com
+cdnappicons.appsflyer.com
+bnc.lt
