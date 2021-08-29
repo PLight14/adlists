@@ -10,3 +10,4 @@ cdn.amplitude.com
 xp.apple.com
 cdnappicons.appsflyer.com
 bnc.lt
+ad.doubleclick.net
