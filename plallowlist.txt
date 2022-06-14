@@ -11,3 +11,5 @@ xp.apple.com
 cdnappicons.appsflyer.com
 bnc.lt
 ad.doubleclick.net
+oms.hotels.com
+sdk.split.io
