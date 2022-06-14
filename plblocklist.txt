@@ -1,8 +1,10 @@
+local
+||*.local
+||*.lan
 ||*.ru^
 ||*.gq^
 ||*.tk^
 ||*.cf^
-||*.xyz^
 ||*.top^
 ||*.gdn^
 ||*.monster^
