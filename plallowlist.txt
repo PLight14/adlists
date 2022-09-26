@@ -15,3 +15,5 @@ oms.hotels.com
 sdk.split.io
 eu.docusign.net
 cdn.segment.com
+ichnaea-web.netflix.com
+app-measurement.com
