@@ -14,3 +14,4 @@ ad.doubleclick.net
 oms.hotels.com
 sdk.split.io
 eu.docusign.net
+cdn.segment.com
