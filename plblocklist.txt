@@ -1,6 +1,6 @@
 local
-||*.local
-||*.lan
+||*.local^
+||*.lan^
 ||*.ru^
 ||*.gq^
 ||*.tk^
