@@ -17,3 +17,8 @@ eu.docusign.net
 cdn.segment.com
 ichnaea-web.netflix.com
 app-measurement.com
+@@||www.googleadservices.com^$important
+@@||adservice.google.com^$important
+@@||oms.expedia.com^$important
+@@||icloud.com^$important
+@@||iadsdk.apple.com^$important
