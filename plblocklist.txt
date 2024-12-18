@@ -3,3 +3,4 @@ local
 ||*.lan^
 /[a-z]{15}\.(ru|su|cn)$/
 ||mqtt-eu.meross.com^
+||mqtt-eu-5.meross.com^
