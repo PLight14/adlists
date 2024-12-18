@@ -2,3 +2,4 @@
 @@||icloud.com^$important
 @@||apple.com^$important
 @@||nextdns.io^important
+@@||mask.apple-dns.net^$important
